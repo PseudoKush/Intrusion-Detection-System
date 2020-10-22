@@ -1,5 +1,5 @@
 # Intrusion-Detection-System  
-The aim of this system is to Detect Intrusion in a network using Machine Learning.   
+The aim of this system is to Detect Attack in a network using Machine Learning.   
   
 ## About Dataset:  
 Dataset Source: The BoT-IoT Dataset  
